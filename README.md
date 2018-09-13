@@ -13,6 +13,8 @@
 
 This repository is for anyone to create pull requests during 24 Pull Requests 2018, with their name, code samples, etc.
 
+![My First PR: 24 Pull Requests](https://my-first-pr.github.io/assets/images/undraw_Winter_olympics_p07j.svg)
+
 ## Contributors List
 
 Start adding your names here:
