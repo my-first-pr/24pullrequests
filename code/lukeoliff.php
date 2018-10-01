@@ -3,7 +3,7 @@ http://php.net/manual/en/tutorial.firstpage.php
 -->
 <html>
 <head>
-    <title>PHP Test</title>
+    <title>PHPTest</title>
 </head>
 <body>
 <?php echo '<p>Hello World</p>'; ?>
