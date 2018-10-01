@@ -16,6 +16,11 @@ This repository is for anyone to create pull requests during 24 Pull Requests 20
 
 ![My First PR: 24 Pull Requests](https://my-first-pr.github.io/assets/images/undraw_Winter_olympics_p07j.svg)
 
+## Hacktoberfest is on!
+
+- [Sign up to Hacktoberfest](https://hacktoberfest.digitalocean.com/) first.
+- Then head to [our repository](https://github.com/my-first-pr/hacktoberfest-2018) to make your first hacktoberfest 2018 contribution.
+
 ## Contributors List
 
 Start adding your names here:
