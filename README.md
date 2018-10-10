@@ -29,6 +29,11 @@ Start adding your names here:
 - I like AI, programming and web development.
 - [![github-alt][github-img]](https://github.com/kundan28)
 
+### Paul-Killer
+- I'm student
+- Learning C and Python programming language
+-[![github-alt][github-img]](https://github.com/paul-killer)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
