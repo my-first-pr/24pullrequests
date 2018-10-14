@@ -29,6 +29,11 @@ Start adding your names here:
 - I like AI, programming and web development.
 - [![github-alt][github-img]](https://github.com/kundan28)
 
+### Ishita Chourasia
+- I am a software developer
+- I enjoy competitive programing
+- [![github-alt][github-img]](https://github.com/ishitach)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
