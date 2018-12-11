@@ -29,6 +29,14 @@ Start adding your names here:
 - I like AI, programming and web development.
 - [![github-alt][github-img]](https://github.com/kundan28)
 
+### Saideep Dicholkar
+- I love technology
+- I like watching tech videos on YouTube
+- I like Web Development and building Android Apps
+- [![github-alt][github-img]](https://github.com/saideepd)
+  [![twitter-alt][twitter-img]](https://twitter.com/saidicholkar)
+  [![google-img][google-img]](https://plus.google.com/+SAIDEEPDICHOLKAR)
+
 ### Example Profile
 - I'm an example that you can copy, if you want :)
 - I work for...
